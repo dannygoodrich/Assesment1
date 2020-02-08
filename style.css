@@ -1,0 +1,27 @@
+* {
+    margin: 0 auto;
+}
+body {
+    /* display: flex; */
+    text-align: center;
+    /* display: flex; */
+}
+
+.row {
+    display: flex;
+    width: 50px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    /* display: flex; */
+    border: 1px solid black;
+
+}
+
+button {
+    height: 50px;
+    width: 50px;
+}
